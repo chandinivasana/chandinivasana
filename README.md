@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm Chandini<br><br>🎓 Computer Science student at RIT  <br>💡 Interested in AI systems, full-stack development, and scalable ML applications<br><br>🚀 Projects<br>🔹 AI Semantic Video Search Engine  <br>🔹 MedExplain-GNN (Explainable Medical AI)  <br>🔹 Gemini AI Interface Clone  <br>🔹 SafeSync – Offline Women’s Safety Platform<br><br>🌱 Currently building AI-powered systems and intelligent web applications.
+Hi 👋 I'm Chandini<br><br>🎓 Computer Science student at RIT  <br>💡 Interested in AI systems, full-stack development, and scalable ML applications<br><br>🚀 Projects<br>🔹 AI Semantic Video Search Engine  <br>🔹 MedExplain-GNN (Explainable Medical AI)  <br>🔹 Gemini AI Interface Clone  <br>🔹 SafeSync – Offline Women’s Safety Platform<br><br>🌱 Currently building AI-powered systems and intelligent web applications.
 
 
 ## 🌐 Socials:
